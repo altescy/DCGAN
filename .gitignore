@@ -1,6 +1,6 @@
 *.pyc
 /_pycache_/
-/.ipython_checkpoints/
+/.ipynb_checkpoints/
 /data/*
 /model/*
 /samples/*
