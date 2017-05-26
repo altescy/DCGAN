@@ -1,0 +1,6 @@
+*.pyc
+/_pycache_/
+/.ipython_checkpoints/
+/data/*
+/model/*
+/samples/*
